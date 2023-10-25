@@ -1,5 +1,9 @@
 # Non-Euclidean Environment With Ray Casting (Python)
 
++ Commands: 
+- Walk: w,a,s,d
+- Look: left_arrow, right_arrow
+
 ## Topics:
 
 - [General Description](https://github.com/LuanSFMarques/non-euclidean_raycast#general-description)
