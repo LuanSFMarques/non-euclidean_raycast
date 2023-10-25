@@ -2,14 +2,14 @@
 
 ## Topics:
 
-- General Description
-- Ray Casting (How it Works?)
-- Ray Casting with PyGame
-- Config
-- Non-Euclidean "Magic"
-- How to execute
-- Motivation & Inspiration
-- Credits
+- [General Description](https://github.com/LuanSFMarques/non-euclidean_raycast#general-description)
+- [Ray Casting (How it Works?)](https://github.com/LuanSFMarques/non-euclidean_raycast#ray-casting-how-it-works)
+- [Ray Casting with PyGame](https://github.com/LuanSFMarques/non-euclidean_raycast#ray-casting-with-pygame)
+- [Config](https://github.com/LuanSFMarques/non-euclidean_raycast#settings)
+- [Non-Euclidean "Magic"](https://github.com/LuanSFMarques/non-euclidean_raycast#non-euclidean-magic)
+- [How to execute](https://github.com/LuanSFMarques/non-euclidean_raycast#how-to-execute)
+- [Motivation & Inspiration](https://github.com/LuanSFMarques/non-euclidean_raycast#motivation--inspiration)
+- [Credits](https://github.com/LuanSFMarques/non-euclidean_raycast#credits)
 
 ## General Description
 "Non-Euclidean Environment with Ray Casting" is my individual project, developed as a part of my final exam for the "CS50x" course at Harvard. As the project's name suggests, it involves the creation of a compact non-Euclidean space using the "Ray Casting" technique. This technique, initially employed in the iconic game Wolfenstein 3D in 1992, has the remarkable ability to craft a 3D world using only a Cartesian plane, straightforward map design, and some mathematical principles. If you're curious to learn more, let's delve into the next topic!
