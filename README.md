@@ -5,7 +5,7 @@
 - [General Description](https://github.com/LuanSFMarques/non-euclidean_raycast#general-description)
 - [Ray Casting (How it Works?)](https://github.com/LuanSFMarques/non-euclidean_raycast#ray-casting-how-it-works)
 - [Ray Casting with PyGame](https://github.com/LuanSFMarques/non-euclidean_raycast#ray-casting-with-pygame)
-- [Config](https://github.com/LuanSFMarques/non-euclidean_raycast#settings)
+- [Settings](https://github.com/LuanSFMarques/non-euclidean_raycast#settings)
 - [Non-Euclidean "Magic"](https://github.com/LuanSFMarques/non-euclidean_raycast#non-euclidean-magic)
 - [How to execute](https://github.com/LuanSFMarques/non-euclidean_raycast#how-to-execute)
 - [Motivation & Inspiration](https://github.com/LuanSFMarques/non-euclidean_raycast#motivation--inspiration)
