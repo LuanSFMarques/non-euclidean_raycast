@@ -1,5 +1,5 @@
 # Non-Euclidean Environment With Ray Casting (Python)
-
+![Ray Casting Image](images/raycasting.png)
 + Commands: 
 - Walk: w,a,s,d
 - Look: left_arrow, right_arrow
